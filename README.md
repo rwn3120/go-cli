@@ -1,6 +1,7 @@
-% go-cli library
+# go-cli library
 
-%% usage
+
+## usage
 ```
 
 var myCliFlag = false
